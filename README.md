@@ -5,7 +5,7 @@ Create a professional Resume 📝, Choose templates📜 , generate pdf📋
 
 
 ## Live Demo
-[Resume Builder](https://kasim393.github.io/Resume-Builder/)
+[Resume Builder](https://arpangroup.github.io/resume-builder/)
 
 ## note ❌
 ### login and register page is not gonna work (its just template).
